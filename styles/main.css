@@ -1,0 +1,52 @@
+.level_1 {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 300px;
+  	height: 70px;
+	border: 7px solid #FF0000;
+	text-align: center;
+}
+
+.level_1 img {	
+	width: 70%;
+	height: 70%;
+}
+
+.level_2 span {
+	padding: 5px;
+  	background-color: #ffffff;
+  	border: 1px solid #000000;
+}
+
+.level_3 a {
+	display: block;
+	width: 500px;
+	height: 200px;
+	background-image: url("https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/google_g_hero.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-decoration: none;
+   	color: #000000; 
+  	font-size: 20px;
+  	text-align: center;
+	line-height: 100px;
+}
+
+.img_level_4 {
+	box-sizing: border-box;
+	border: none;
+	width: 300px;
+	height: 200px;
+	cursor: default;
+
+}
+
+.img_level_4:hover {
+	border: 3px solid #ff0000;
+	
+}
+
+
+
